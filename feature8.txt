@@ -1,5 +1,5 @@
 This is feature 8.
 
+It was updated in the feature 9 (and will be updated also in the upstream repo).
+
 And here goes update, made in feature-10 branch.
-
-

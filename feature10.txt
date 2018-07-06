@@ -1,0 +1,4 @@
+This is feature #10.
+
+It will also affect 'feature8.txt' file, to cause a merge conflict with the feature #8.
+

@@ -1,12 +1,1 @@
 Hi! This is staging!
-
-A new line was added, so the upstream/staging now is deverged with the staging in fork.
-
-I've added one more line. And updated it both in fork and original repos.
-
-And here goes conflict. (moved the string manually)
-
-And added one more.
-
-And there goes the fifth(?) change.
-
